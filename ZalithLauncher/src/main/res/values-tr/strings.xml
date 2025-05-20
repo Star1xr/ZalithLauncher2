@@ -321,7 +321,7 @@
     <!-- Settings -->
     <string name="settings_element_selected">Seçili: %s</string>
     <string name="settings_label_ignore_if_blank">Boş bırakılırsa görmezden gelinir</string>
-    <string name="settings_tab_renderer">İşleyici</string>
+    <string name="settings_tab_renderer">Video(Renderer)</string>
     <string name="settings_tab_game">Oyun</string>
     <string name="settings_tab_control">Kontroller</string>
     <string name="settings_tab_launcher">Başlatıcı</string>
